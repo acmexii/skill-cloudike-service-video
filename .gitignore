@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.secrets/
+*.dpapi
+__pycache__/
+*.py[cod]
+outputs/
+*.mp4
+*.mp3
+*.wav
